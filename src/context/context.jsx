@@ -14,6 +14,7 @@ export const CartProvider = ({ children }) => {
     
     const resetCart = () => {
         setCartCount(0); 
+        
     };
 
     return (
