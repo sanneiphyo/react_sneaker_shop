@@ -42,4 +42,4 @@ Copy code
 npm start
 # or
 yarn start
-Open your browser and go to http://localhost:3000 to view the application.
+Open your browser and go to http://localhost:3000 to view the application......
